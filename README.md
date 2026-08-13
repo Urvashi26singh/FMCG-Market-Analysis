@@ -1,6 +1,6 @@
-** FMCG Market Analysis & Growth Strategy** 📊
+# FMCG Market Analysis & Growth Strategy 📊
 
- Project Overview
+## Project Overview
 
 This project analyzes 500 FMCG sales transactions using Microsoft Excel to understand sales performance, profitability, regional performance, category performance, product performance, and monthly sales trends.
 
